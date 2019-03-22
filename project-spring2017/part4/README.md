@@ -2,6 +2,8 @@
 ### Author: Hui Lyu of Group Athena
 The published infographic can be found here: https://magic.piktochart.com/output/21910169-cumtd
 
+(This link is unavailable now. You can find the static report [here](https://github.com/huilyu2/DataVisualization/blob/master/project-spring2017/part4/Infographic-CUMTD.png).)
+
 The tool is Piktochart: https://piktochart.com/
 
 ## Overview of Datasets
